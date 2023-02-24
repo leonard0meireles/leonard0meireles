@@ -1,5 +1,5 @@
 - print('Hello, I'm NLeopy.')
-- Escreval("I finished the couse 'Lógica de Programação' by Professor Gustavo Gunanabara") - 02/24/2023 - 20:29
+- EscrevaL("I finished the couse 'Lógica de Programação' by Professor Gustavo Gunanabara") - 02/24/2023 - 20:29
 - exit()
 <!---
 NLeopy/NLeopy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
