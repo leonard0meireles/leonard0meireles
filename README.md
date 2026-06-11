@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I'm an IT technician and back-end developer. I've been studying since 2022 as a hobby and now I'm improving my skills and making API's REST using Java and Spring Boot.</p>
+<p align="center">Computer Engineering student and IT Technician focused on developing a career in programming.</p>
 
 ###
 
